@@ -1,68 +1,56 @@
 Contributor Covenant
 ====================
 
-A code of conduct for open source projects.
+The most popular code of conduct for open source projects with over 30,000 adoptions.
 
 ## Project Home Page
 
-For an overview and usage instructions, please visit http://contributor-covenant.org/
+For an overview and usage instructions, please visit [contributor-covenant.org](http://contributor-covenant.org/)
 
 ## Contributing
 
-Please feel free to submit pull requests or open issues to improve the language of this pledge.
+Please feel free to submit pull requests or open issues to improve the language
+of this document or to provide additional [translations](http://contributor-covenant.org/version/1/3/0/i18n/).
+
+You should also check the [issues](https://github.com/ContributorCovenant/contributor_covenant/issues)
+for the latest discussions involving the current and future versions of Contributor Covenant.
+
+To build the website locally, first install [Hugo](https://gohugo.io) using your package manager of choice.
+For example, using [Homebrew](https://brew.sh) on macOS:
+
+```
+brew install hugo
+```
+
+Then, from the repo root directory, start the development server:
+
+```
+hugo server -D
+```
+
+## Translating
+
+We're always looking for new localizations of Contributor Covenant and are thankful to the volunteers who spend their time on translations.
+
+If you are interested in doing a translation, please follow these steps:
+
+* Fork the repo and make a branch for your translation.
+* If it's a new language, add it to `config.toml`, with a localized name and language code/optional region (e.g. `pt` or `pt-br`.)
+* Create a markdown file with your translation in `version/1/4/code-of-conduct.LANGUAGECODE.md`.
+* Open a pull request.
+* We will put out a call to have one or more other native speakers review the translation.
+* Collaborate until the translation is satisfactory.
+* We will merge your translation!
+* HTML and plain text versions are automatically generated from your markdown file.
+* A link to your translation is automatically added to the translations page.
+
+## Adding a Project to the List of Adopters
+
+* Fork the repo.
+* Add a new row to the [adopters.csv](data/adopters.csv), with the project name in the first column, and the project URL in the second column.
+* Open a pull request.
 
 ## Examples of Projects Using the Contributor Covenant
 
-* [24 Pull Requests](https://github.com/24pullrequests/24pullrequests)
-* [AASM](https://github.com/aasm/aasm)
-* [Algorrent](https://github.com/algorrent/algorrent)
-* [All HaskellNow.org Projects](http://www.haskellnow.org/wiki/WikiStart#Projects)
-* [AngularJS](https://github.com/angular/code-of-conduct)
-* [angular-formly](https://github.com/formly-js/angular-formly)
-* [Babel](https://github.com/babel/babel)
-* [Bundler](https://github.com/bundler/bundler)
-* [chef-rvm](https://github.com/fnichol/chef-rvm)
-* [CloudI](http://cloudi.org/faq.html#2_CodeOfConduct)
-* [CocoaPods](https://github.com/cocoapods/cocoapods)
-* [composer](https://github.com/composer/composer)
-* [Crackle](https://github.com/jordanekay/Crackle)
-* [Eldest Daughter Questionnaire](https://github.com/eldest-daughter/ed-questionnaire)
-* [Exercism.io](https://github.com/exercism/exercism.io)
-* [Fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master)
-* [GitLab](https://github.com/gitlabhq/gitlabhq)
-* [Growing Devs](https://github.com/growingdevs/growingdevs.github.io)
-* [Hacken.in](https://github.com/hacken-in/website)
-* [Haskell Fill in the Blanks](https://gitlab.com/cpp.cabrera/haskell-fill-in-the-blanks/tree/master)
-* [haxe-pixi](https://github.com/adireddy/haxe-pixi)
-* [HealingRa.in Projects](https://gitlab.com/groups/healing-rain)
-* [Homebrew-Cask](https://github.com/caskroom/homebrew-cask)
-* [HTTPotion](https://github.com/myfreeweb/httpotion)
-* [if me](https://github.com/julianguyen/ifme)
-* [Lotus](http://lotusrb.org/community#code-of-conduct)
-* [Mensa](https://github.com/jordanekay/Mensa)
-* [Monsti CMS](http://www.monsti.org/)
-* [Mozilla Webmaker](https://www.webmaker.org/)
-* [NColony](https://github.com/moshez/ncolony)
-* [OAPI ShieldsUp](https://github.com/oapi/shieldsup)
-* [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap)
-* [OpenProject](https://www.openproject.org/)
-* [Ornament](https://github.com/jordanekay/Ornament)
-* [Panamax](https://github.com/CenturyLinkLabs/panamax-ui)
-* [Paramore](https://github.com/iancooper/Paramore)
-* [Playscii](http://vectorpoem.com/playscii)
-* [pmap](https://github.com/bruceadams/pmap)
-* [PRAW](https://github.com/praw-dev/praw)
-* [PyBBIO](https://github.com/graycatlabs/PyBBIO)
-* [Rack::Attack](https://github.com/kickstarter/rack-attack)
-* [ROM](https://github.com/rom-rb/rom)
-* [ruby-community](https://github.com/apeiros/ruby-community)
-* [RubyGems.org](https://github.com/rubygems/rubygems.org)
-* [RVM](https://github.com/rvm/rvm)
-* [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS)
-* [QA-Tools](https://github.com/qa-tools/qa-tools)
-* [Snuffle](https://gitlab.com/coraline/snuffle/tree/master)
-* [Snipe-IT](https://github.com/snipe/snipe-it)
-* [vim cheat sheet](https://github.com/rtorr/vim-cheat-sheet)
-* [Volt.rb](https://github.com/voltrb/volt)
-* [WAI-request-spec](https://gitlab.com/cpp.cabrera/wai-request-spec)
-* [xoreos](https://github.com/xoreos/xoreos)
+This code of conduct has been adopted by [more than 40,000 open source projects](https://github.com/search?l=&q=%22This+Code+of+Conduct+is+adapted+from+the+%5BContributor+Covenant%5D%22+path%3A%22%2F%22+fork%3Afalse&ref=advsearch&type=Code&utf8=✓).
+For a partial list, see [our adopters page](https://www.contributor-covenant.org/adopters.html).
