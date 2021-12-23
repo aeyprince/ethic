@@ -15,9 +15,11 @@ angular-formly, https://github.com/formly-js/angular-formly
 AngularJS, https://github.com/angular/code-of-conduct
 APInf, https://github.com/apinf/platform
 AppSignal, https://docs.appsignal.com/appsignal/contributing/code-of-conduct.html
+ArchiSteamFarm, https://github.com/JustArchiNET/ArchiSteamFarm
 Asqatasun, https://gitlab.com/asqatasun/Asqatasun
 Atom, https://github.com/atom/atom
 AVA, https://github.com/avajs/ava
+Avanade, https://github.com/Avanade
 Babel, https://github.com/babel/babel
 Baleen CLI, https://github.com/baleen/cli
 Baleen Migrations, https://github.com/baleen/migrations
@@ -27,6 +29,7 @@ Bionode, https://www.bionode.io/
 BioSigKit, https://github.com/hooman650/BioSigKit
 bitmath, https://github.com/tbielawa/bitmath/
 BootstrapVue, https://github.com/bootstrap-vue/bootstrap-vue
+BoxBilling, https://boxbilling.org/
 Bridge.NET, https://bridge.net/
 Brighter, https://github.com/BrighterCommand/Brighter
 brightness_bashshell_script, https://github.com/gorlapraveen/brightness_bashshell_script
@@ -49,6 +52,7 @@ CocoaPods, https://github.com/cocoapods/cocoapods
 Codebridge, https://github.com/codebridge-za
 CodeBuddies, https://github.com/codebuddies/codebuddies
 Coding Coach, https://github.com/Coding-Coach/coding-coach
+Compose Generator, https://github.com/compose-generator/compose-generator
 composer, https://github.com/composer/composer
 comptoir-du-libre, https://gitlab.adullact.net/Comptoir/Comptoir-srv
 concurrent-ruby, https://github.com/ruby-concurrency/concurrent-ruby
@@ -72,6 +76,7 @@ datacoco-redis_tools, https://github.com/equinoxfitness/datacoco-redis_tools
 datacoco-secretsmanager, https://github.com/equinoxfitness/datacoco-secretsmanager
 Dawnscanner, https://github.com/thesp0nge/dawnscanner
 DC/OS, https://dcos.io/
+Deckhouse, https://github.com/deckhouse/deckhouse
 Dependent, https://github.com/dependent/dependencies
 DevAndDev, https://devand.dev/
 Deviser Platform, https://github.com/deviserplatform/deviserplatform
@@ -95,6 +100,7 @@ First Contributions, https://github.com/firstcontributions/first-contributions
 Freedomotic, https://github.com/freedomotic/freedomotic
 friends, https://github.com/JacobEvelyn/friends
 Fukuzatsu, https://gitlab.com/coraline/fukuzatsu/tree/master
+Funky Penguin's Geek Cookbook,https://geek-cookbook.funkypenguin.co.nz/community/code-of-conduct/
 Gatsby, https://github.com/gatsbyjs/gatsby
 GDS, https://github.com/alphagov
 GEOPM, https://geopm.github.io/
@@ -143,8 +149,10 @@ Johnny-Five, https://github.com/rwaldron/johnny-five
 Jolie, https://jolie-lang.org/
 JRuby Gradle, https://github.com/jruby-gradle/jruby-gradle-plugin
 JRuby, https://github.com/jruby/jruby/
+JSON Schema, https://github.com/json-schema-org/json-schema-spec
 JuneteenthConf, https://juneteenthconf.com/
 json-rpc, https://github.com/pavlov99/json-rpc
+Kibi, https://github.com/ilai-deutel/kibi
 Kickoff, https://github.com/TryKickoff/kickoff/
 Kiva, https://github.com/kiva
 Kong, https://github.com/Kong/kong/
@@ -153,6 +161,7 @@ Kubernetes, https://github.com/kubernetes/kubernetes/
 LA Devs, https://github.com/la-devs/ladevs.org
 Laravel.io, https://github.com/laravelio/laravel.io
 LifxDash, https://github.com/matthutchinson/lifx_dash
+Linkrot, https://github.com/marshalmiller/linkrot
 Linode, https://github.com/linode/docs
 Linux, https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8a104f8b5867c682d994ffa7a74093c54469c11f
 Lolcommits Plugins, https://github.com/search?q=topic%3Alolcommits-plugin+org%3Alolcommits
@@ -178,6 +187,7 @@ Navidrome Music Server, https://www.navidrome.org/
 NColony, https://github.com/ncolony/ncolony
 Neos, https://www.neos.io/
 Nerd Fonts, https://github.com/ryanoasis/nerd-fonts
+NGINX, https://github.com/nginxinc/kic-reference-architectures
 Nodejs Africa, https://nodejs.africa/
 Node.js, https://github.com/nodejs
 Noice, https://github.com/ashutoshgngwr/noice
@@ -185,6 +195,7 @@ nteract, https://nteract.io/
 OAPI ShieldsUp, https://github.com/oapi/shieldsup
 Onnx-go, https://github.com/owulveryck/onnx-go
 Open WebRTC Toolkit, https://github.com/open-webrtc-toolkit
+OpenArchive, https://open-archive.org/
 OpenDominion, https://github.com/OpenDominion/OpenDominion
 OpenDroneMap, https://github.com/OpenDroneMap/ODM
 OpenJS Foundation, https://github.com/openjs-foundation/
@@ -206,6 +217,7 @@ PeteBishwhip, https://github.com/PeteBishwhip/
 Pexip - Video Conferencing SDK, https://github.com/pexip/pexkit-sdk
 pg_chameleon - MySQL to PostgreSQL replica, https://github.com/the4thdoctor/pg_chameleon
 phpMyAdmin, https://www.phpmyadmin.net/
+PHPStan, https://phpstan.org/
 pimutils, https://pimutils.org/coc/
 PiVPN, https://github.com/pivpn/pivpn
 Pixi.js Haxe Externs, https://github.com/pixijs/pixi-haxe
@@ -239,9 +251,11 @@ Redash, https://github.com/getredash/redash
 Rekrei, https://github.com/rekrei/rekrei
 Repo Template, https://github.com/krishdevdb/repo-template
 Reseter.css, https://github.com/krishdevdb/reseter.css
+Ring Programming Language, https://github.com/ring-lang/ring
 Robocar, https://github.com/Yaacoub/Robocar
 Rocket.Chat, https://github.com//RocketChat/Rocket.Chat
 ROM, https://github.com/rom-rb/rom
+Rowy, https://github.com/rowyio/rowy
 RSpec, https://github.com/rspec/rspec
 Ruby for Cats, https://github.com/rubyforcats
 Ruby Hero Awards, https://github.com/rubyheroes/rubyheroes.com
@@ -262,12 +276,15 @@ Snuffle, https://gitlab.com/coraline/snuffle/tree/master
 Sonobuoy, https://github.com/vmware-tanzu/sonobuoy
 Software Carpentry, https://github.com/swcarpentry
 Software Foundations Chinese Translation, https://github.com/Coq-zh/SF-zh
+SOULs, https://github.com/elsoul/souls
 SPIP, https://www.spip.net/fr_rubrique91.html
 Spree, https://github.com/spree/spree
 Spring Boot, https://github.com/spring-projects/spring-boot
 Spring, https://github.com/spring-projects
 Squirrel for Windows, https://github.com/squirrel/squirrel.windows
+SquirrelJME, https://squirreljme.cc/
 Stack.io, https://github.com/germanstack
+StackGres, https://stackgres.io
 Storybook, https://github.com/storybookjs/storybook
 Styled Hooks, https://github.com/colingourlay/styled-hooks
 SuiteCRM, https://suitecrm.com/
@@ -309,6 +326,7 @@ VSAlert, https://vsalert.vsanthanam.com
 Vue.js, https://github.com/vuejs/vue
 WAI-request-spec, https://gitlab.com/cpp.cabrera/wai-request-spec
 Waud, https://github.com/adireddy/waud
+Webiny, https://github.com/webiny/webiny-js
 Webwide, https://webwide.io/help/code-of-conduct/
 Wechaty, https://wechaty.js.org/docs/community/code-of-conduct/
 xmake, https://github.com/tboox/xmake
